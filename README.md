@@ -29,7 +29,7 @@ Classify Amazon customer reviews into:
 
 - **Source**: [Kaggle - Consumer Reviews of Amazon Products](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)
 - **File Used**: `Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products.csv`
-- **Products**: Kindle, Fire TV Stick, Echo, and more.
+- **Description:** A sample of 5,000 Amazon product reviews including Kindle, Fire TV Stick, etc., collected between Sept 2017 – Oct 2018.
 
 ### 💡 Sentiment Mapping
 
@@ -78,6 +78,14 @@ Classify Amazon customer reviews into:
 
 ---
 
+## 📦 Load Pretrained Model 
+
+Due to the large size of the fine-tuned model, it has been uploaded to Google Drive.
+You can download it from the link below and use it without retraining:
+
+📁 **[Download from Google Drive](https://drive.google.com/drive/folders/1cePeMMkRisuMEuedgYQoZKSgNb-8uJWK?usp=sharing)**
+
+---
 ## 🔧 How to Run
 
 1. Clone the repo:
