@@ -246,3 +246,46 @@ AmazonBasics USB 3.0 Cable - A-Male to B-Male - 6 Feet (1.8 Meters): No major co
 ### ❌ Worst Product to Avoid:
 Amazon Kindle Replacement Power Adapter (Fits Latest Generation Kindle and Kindle DX) For shipment in the U.S only — 2.8⭐ rating
 Top issues: I purchased my Kindle2 in March of 09 - and it came with this adapter and cord. It is now October 09, and the small part of the adapter for this cord has stopped working. While plugged into a wall socket using Amazon's adapter, it does not charge at all.
+```
+
+---
+
+### 🚀 Deployment using Streamlit
+
+## 🖼️ Home Page
+
+![Home Page](homepage.png)
+
+---
+
+## 🔥 Features
+
+### 🔍 Product Review Exploration
+Easily navigate customer reviews by category to uncover insights on product performance and user satisfaction.
+
+### 🧠 Smart Review Summarization
+AI-powered summarizer provides concise overviews of user feedback for each product category — saving time and boosting clarity.
+
+### 📊 Visual Insights
+Interactive charts show:
+- ⭐ Rating distribution across products
+- 🗣️ Most common review topics (Delivery, Price, Quality, etc.)
+
+### 💬 Sentiment Analysis (AI Classifier)
+Classify individual reviews or bulk CSV uploads into:
+- Positive 😊  
+- Neutral 😐  
+- Negative 😠  
+
+With confidence scores and a visual breakdown.
+
+### 🛍️ Best & Worst Products Report
+See the top-rated and underperforming products per category — with summaries and complaint extractions.
+
+### 📝 Add Your Own Reviews
+Test the app with your own reviews and watch them get analyzed, categorized, and summarized instantly.
+
+### 📂 Bulk Review Upload Support
+Upload your own CSV of reviews and analyze sentiment and trends in just a few clicks.
+
+
